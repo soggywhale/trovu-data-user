@@ -5,6 +5,8 @@ namespaces:
 - en
 - .us
 - ms
+- .ch
+- fr
 - github: .
   name: soggywhale
 # defaultKeyword: g 
