@@ -4,8 +4,9 @@ namespaces:
 - o
 - en
 - .us
+- ms
 - github: .
-  name: my
+  name: soggywhale
 # defaultKeyword: g 
 language: en
-country: us
+country: ch
